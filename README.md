@@ -29,7 +29,7 @@
 ### 📊 My GitHub Stats 🌸
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayeshah666&theme=rose_pine&hide_border=false&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayeshah666&theme=rose_pine&hide_border=true&show_icons=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
