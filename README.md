@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="200" />
 </p>
 
-<p align="center">🎀 Information Technology Student at Virtual University 🎀</p>
+<p align="center">🎀 Information Technology Student 🎀</p>
 
 ---
 
